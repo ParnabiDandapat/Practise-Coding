@@ -14,6 +14,8 @@ class Employee extends Person {
         System.out.print(a + b + "Java" + a);
     }
 }
+
+
 public class Question {
     public static void main(String args[]) {
       //  Person p = new Employee(); and new Employee(); both will print same output
